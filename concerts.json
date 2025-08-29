@@ -1,0 +1,29 @@
+{
+  "artist": {
+    "name": "Artist Name",
+    "bio": "This is a short biography.",
+    "socials": {
+      "facebook": "https://facebook.com/artist",
+      "twitter": "https://twitter.com/artist",
+      "website": "https://artist.com"
+    }
+  },
+  "concerts": [
+    {
+      "id": "1",
+      "date": "2025-09-10",
+      "city": "New York",
+      "venue": "Madison Square Garden",
+      "ticketsUrl": "https://tickets.com/nyc",
+      "mapsUrl": "https://maps.google.com/?q=Madison+Square+Garden"
+    },
+    {
+      "id": "2",
+      "date": "2025-10-01",
+      "city": "Los Angeles",
+      "venue": "Hollywood Bowl",
+      "ticketsUrl": "https://tickets.com/la",
+      "mapsUrl": "https://maps.google.com/?q=Hollywood+Bowl"
+    }
+  ]
+}
