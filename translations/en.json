@@ -4,7 +4,7 @@
     "about": "About"
   },
   "concerts": {
-    "title": "Fernando Upcoming Concerts",
+    "title": "Nando Upcoming Concerts",
     "subtitle": "Don't miss {{artistName}} live!",
     "loading": "Loading concerts...",
     "error": "Failed to load concerts",
