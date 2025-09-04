@@ -1,0 +1,44 @@
+{
+  "navigation": {
+    "concerts": "Concerts",
+    "about": "About"
+  },
+  "concerts": {
+    "title": "Fernando Upcoming Concerts",
+    "subtitle": "Don't miss {{artistName}} live!",
+    "loading": "Loading concerts...",
+    "error": "Failed to load concerts",
+    "tryAgain": "Try Again",
+    "noConcerts": "No concerts scheduled",
+    "noConcertsSubtext": "Check back soon for updates!",
+    "concertDetails": "Concert Details",
+    "buyTickets": "Buy Tickets",
+    "getDirections": "Get Directions"
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Get to know the artist",
+    "loading": "Loading artist info...",
+    "error": "Failed to load artist information",
+    "biography": "Biography",
+    "connect": "Connect",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "officialWebsite": "Official Website",
+    "tourStats": "Tour Stats",
+    "upcomingShows": "Upcoming Shows",
+    "cities": "Cities"
+  },
+  "common": {
+    "goBack": "Go Back",
+    "error": "Error",
+    "somethingWentWrong": "Something went wrong",
+    "unableToOpen": "Unable to open {{platform}} link",
+    "concertNotFound": "Concert not found"
+  },
+  "notFound": {
+    "title": "Oops!",
+    "message": "This screen doesn't exist.",
+    "goHome": "Go to home screen!"
+  }
+}
