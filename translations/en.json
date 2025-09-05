@@ -1,4 +1,7 @@
 {
+  "general": {
+    "app_loading": "Loading application..."
+  },
   "navigation": {
     "concerts": "Concerts",
     "about": "About"
