@@ -24,6 +24,14 @@
       "venue": "Hollywood Bowl",
       "ticketsUrl": "https://tickets.com/la",
       "mapsUrl": "https://maps.google.com/?q=Hollywood+Bowl"
+    },
+    {
+      "id": "3",
+      "date": "2025-09-06",
+      "city": "Porto",
+      "venue": "Noite Branca",
+      "ticketsUrl": "https://tickets.com/la",
+      "mapsUrl": "https://maps.google.com/?q=Hollywood+Bowl"
     }
   ]
 }
