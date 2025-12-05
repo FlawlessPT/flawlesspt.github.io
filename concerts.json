@@ -32,6 +32,14 @@
       "venue": "Noite Branca",
       "ticketsUrl": "https://tickets.com/la",
       "mapsUrl": "https://maps.google.com/?q=Hollywood+Bowl"
+    },
+    {
+      "id": "4",
+      "date": "2025-09-06",
+      "city": "Lisboa",
+      "venue": "Noite Negra",
+      "ticketsUrl": "https://tickets.com/la",
+      "mapsUrl": "https://maps.google.com/?q=Hollywood+Bowl"
     }
   ]
 }
