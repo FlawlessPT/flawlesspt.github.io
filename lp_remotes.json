@@ -1,7 +1,7 @@
 [
     {
         "name": "signingLandingPageHost",
-        "entry": "/mfe/signing-landing-page-host-mfe/0.0.0.10-SNAPSHOT/signing-landing-page-host.js",
+        "entry": "https://onex-mfe-dev.non-prod.pt-digital.engineering.vodafone.com/mfe/signing-landing-page-host-mfe/0.0.0.10-SNAPSHOT/signing-landing-page-host.js",
         "type": "module"
     }
 ]
