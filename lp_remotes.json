@@ -1,7 +1,7 @@
 [
     {
         "name": "signingLandingPageHost",
-        "entry": "/mfe/signing-landing-page-host-mfe/0.0.0.7-SNAPSHOT/signing-landing-page-host.js",
+        "entry": "/mfe/signing-landing-page-host-mfe/0.0.0.8-SNAPSHOT/signing-landing-page-host.js",
         "type": "module"
     }
 ]
