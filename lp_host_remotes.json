@@ -1,7 +1,7 @@
 [
   {
     "name": "taxNumberValidator",
-    "entry": "/mfe/tax-number-validator-mfe/0.0.0.5-SNAPSHOT/tax-number-validator.js",
+    "entry": "https://onex-mfe-pre.non-prod.pt-digital.engineering.vodafone.com/mfe/tax-number-validator-mfe/0.0.0.5-SNAPSHOT/tax-number-validator.js",
     "type": "module"
   },
   {
