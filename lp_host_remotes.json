@@ -1,14 +1,14 @@
 [
   {
     "name": "taxNumberValidator",
-    "entry": "https://onex-mfe-pre.non-prod.pt-digital.engineering.vodafone.com/mfe/tax-number-validator-mfe/0.0.0.6-SNAPSHOT/tax-number-validator.js"
+    "src": "https://onex-mfe-pre.non-prod.pt-digital.engineering.vodafone.com/mfe/tax-number-validator-mfe/0.0.0.6-SNAPSHOT/tax-number-validator.js"
   },
   {
     "name": "identityManagement",
-    "entry": "https://onex-mfe-dev.non-prod.pt-digital.engineering.vodafone.com/mfe/identity-management-mfe/1.3.5-SNAPSHOT/identity-management.js"
+    "src": "https://onex-mfe-dev.non-prod.pt-digital.engineering.vodafone.com/mfe/identity-management-mfe/1.3.5-SNAPSHOT/identity-management.js"
   },
   {
     "name": "documentSigningMfe",
-    "entry": "https://onex-mfe-dev.non-prod.pt-digital.engineering.vodafone.com/mfe/document-signing-mfe/0.0.0.1-SNAPSHOT/document-signing.js"
+    "src": "https://onex-mfe-dev.non-prod.pt-digital.engineering.vodafone.com/mfe/document-signing-mfe/0.0.0.1-SNAPSHOT/document-signing.js"
   }
 ]
